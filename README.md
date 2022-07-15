@@ -1,10 +1,9 @@
 <a href="#">
   <div align="center">
-    <img src="certificates/FarhanAshraf.png" width='700'/>
   </div>
 </a>
 
-<h1 align="center">CS Lodges Certificate Vista</h1>
+![Certificate of Participation - Farhan Ashraf](/FarhanAshraf.png)
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
